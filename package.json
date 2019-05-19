@@ -1,0 +1,22 @@
+{
+  "name": "newapp",
+  "version": "1.0.0",
+  "description": "bkf",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damienLogic/NEWAPP.git"
+  },
+  "keywords": [
+    "w/e"
+  ],
+  "author": "damien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damienLogic/NEWAPP/issues"
+  },
+  "homepage": "https://github.com/damienLogic/NEWAPP#readme"
+}
